@@ -1,0 +1,11 @@
+# important-problems
+important problems found while practicing cp and dsa.
+# topics left to cover in future
+-> job sequencing problem
+-> Euler's totient function advanced
+-> Modular inverse
+-> matrix exponentiation
+-> Chinese remainder theorem advanced
+-> nCr advanced
+-> Catalan numbers
+-> Gaussian elimination
