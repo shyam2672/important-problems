@@ -1,3 +1,4 @@
 https://practice.geeksforgeeks.org/problems/generalised-fibonacci-numbers1820/1#
 https://practice.geeksforgeeks.org/problems/find-the-minimum-time0253/1/
 https://practice.geeksforgeeks.org/problems/tree-and-xor/0/
+https://practice.geeksforgeeks.org/problems/covid19/0/
